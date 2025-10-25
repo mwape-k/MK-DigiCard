@@ -32,7 +32,7 @@ declare module "@react-three/fiber" {
 import cardGLB from "../assets/lanyard/card.glb";
 import lanyard from "../assets/lanyard/mk.png";
 
-import "./Lanyard.css";
+import "./lanyard.css";
 
 extend({ MeshLineGeometry, MeshLineMaterial });
 
